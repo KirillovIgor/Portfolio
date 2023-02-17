@@ -18,7 +18,7 @@
 
 
 ### Проект №2 
-[Ссылка на проект]([https://github.com/KirillovIgor/combined_project_1/blob/8b8057e47585876924f74b10088ec9da825dddaf/combined_project_1.ipynb](https://github.com/KirillovIgor/Portfolio/blob/11877e689f99444d4c9719b2ace18bbfde8197b4/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_2/combined_project_2.ipynb))
+[Ссылка на проект](https://github.com/KirillovIgor/Portfolio/blob/11877e689f99444d4c9719b2ace18bbfde8197b4/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_2/combined_project_2.ipynb)
 
 Провел исследование и выявил факторы, влияющие на успех продаж компьютерной игры, а также спланировать компанию продаж на следующий год.
 
