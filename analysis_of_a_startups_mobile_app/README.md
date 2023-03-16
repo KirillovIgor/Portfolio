@@ -1,6 +1,6 @@
 # Анализ пользовательского поведения в мобильном приложении
 
-Пожалуйста, для того чтобы в работе были отображены все графики из библиотеки plotly, а также корректно работала навигация по проекту, перейдите по [ссылке](https://nbviewer.org/github/KirillovIgor/Portfolio/blob/b052f5131155ee46adcc8ddab25a27c27dd51fb7/analysis_of_a_startups_mobile_app/analysis_of_a_startups_mobile_app.ipynb) в nbviewer.
+Пожалуйста, для того, чтобы в работе были отображены все графики из библиотеки plotly, а также корректно работала навигация по проекту, перейдите по [ссылке](https://nbviewer.org/github/KirillovIgor/Portfolio/blob/b052f5131155ee46adcc8ddab25a27c27dd51fb7/analysis_of_a_startups_mobile_app/analysis_of_a_startups_mobile_app.ipynb) в nbviewer.
 
 ## Данные
 В наличии были следующие данные о логах пользователей (каждая запись в логе — это действие пользователя, или событие):
